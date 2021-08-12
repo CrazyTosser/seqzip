@@ -1,0 +1,16 @@
+{
+  "name": "seqzip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seqzip.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.3",
+    "chai": "^4.3.4"
+  },
+  "keywords": [],
+  "author": "CrazyTosser",
+  "license": "ISC"
+}
